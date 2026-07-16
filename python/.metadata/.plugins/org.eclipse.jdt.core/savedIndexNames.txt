@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\vrus7\OneDrive\Documents\Desktop\python\.metadata\.plugins\org.eclipse.jdt.core
+3199737023.index
+2848384264.index
+1377524921.index
+1865797976.index
+1727091157.index
